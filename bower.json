@@ -1,0 +1,26 @@
+{
+  "name": "activeweb-simple",
+  "homepage": "https://github.com/wzulfikar/activeweb-simple",
+  "authors": [
+    "wzulfikar <wzulfikar@ymail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "admin-lte": "~2.1.2",
+    "fullcalendar": "^2.6.1",
+    "font-awesome": "fontawesome#^4.5.0",
+    "datatables.net": "^1.10.11",
+    "datatables.net-bs": "^1.10.11",
+    "Ionicons": "ionicons#^2.0.1"
+  }
+}
